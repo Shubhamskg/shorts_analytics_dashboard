@@ -1734,7 +1734,7 @@ class DentalChannelsDashboard:
         
         with col1:
             st.markdown(f"""
-            <div class="metric-card" style="border-left: 4px solid blue">
+            <div class="metric-card" style="border-left: 4px solid {best_views.color}">
                 <h4>🏆 Most Views</h4>
                 <h3>{best_views.channel_name}</h3>
                 <p><strong>{best_views.period_views:,}</strong> views</p>

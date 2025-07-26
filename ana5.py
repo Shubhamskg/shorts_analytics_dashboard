@@ -33,13 +33,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Environment detection
-IS_STREAMLIT_CLOUD = (
-    os.getenv('STREAMLIT_SHARING') == 'true' or
-    'streamlit.app' in os.getenv('HOSTNAME', '') or
-    os.getenv('STREAMLIT_CLOUD', False) or
-    'streamlit' in os.getenv('HOME', '').lower()
-)
-
+# IS_STREAMLIT_CLOUD = (
+#     os.getenv('STREAMLIT_SHARING') == 'true' or
+#     'streamlit.app' in os.getenv('HOSTNAME', '') or
+#     os.getenv('STREAMLIT_CLOUD', False) or
+#     'streamlit' in os.getenv('HOME', '').lower()
+# )
+IS_STREAMLIT_CLOUD=True
 # Security constants
 MAX_RETRY_ATTEMPTS = 3
 RATE_LIMIT_DELAY = 1.0

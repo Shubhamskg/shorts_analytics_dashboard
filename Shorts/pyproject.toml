@@ -1,0 +1,16 @@
+[project]
+name = "shorts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "google-api-python-client>=2.174.0",
+    "google-auth>=2.40.3",
+    "google-auth-oauthlib>=1.2.2",
+    "google-generativeai>=0.8.5",
+    "requests>=2.32.4",
+    "youtube-transcript-api>=1.1.0",
+    "yt-dlp>=2025.6.9",
+]

@@ -1,0 +1,29 @@
+[project]
+name = "josephvideo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "edge-tts>=7.0.2",
+    "google-api-python-client>=2.174.0",
+    "google-auth>=2.40.3",
+    "google-auth-httplib2>=0.2.0",
+    "google-auth-oauthlib>=1.2.2",
+    "google-generativeai>=0.8.5",
+    "gtts>=2.5.4",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "python-dotenv>=1.1.1",
+    "pytrends>=4.9.2",
+    "pyttsx3>=2.99",
+    "requests>=2.32.4",
+    "streamlit>=1.47.0",
+    "utils>=1.0.2",
+    "yt-dlp>=2025.6.9",
+]
+
+[tool.uv.workspace]
+members = [
+    "Shorts",
+]

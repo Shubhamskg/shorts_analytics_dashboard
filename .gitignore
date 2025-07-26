@@ -1,0 +1,4 @@
+# Ignore all JSON files
+*.json
+*.toml
+yt.toml

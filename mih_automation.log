@@ -1,0 +1,215 @@
+2025-07-09 05:07:23,512 - INFO - [OK] Enhanced configuration loaded
+2025-07-09 05:07:23,601 - INFO - [OK] FFmpeg detected
+2025-07-09 05:07:24,288 - INFO - [OK] yt-dlp detected
+2025-07-09 05:07:24,293 - INFO - [INFO] eSpeak TTS (optional) not found (TTS will be disabled)
+2025-07-09 05:07:24,294 - INFO - [INIT] Initializing Enhanced MIH Automation System v2.0...
+2025-07-09 05:07:24,295 - INFO - [OK] Enhanced Gemini AI initialized
+2025-07-09 05:07:24,295 - ERROR - [ERROR] Enhanced system error: Can't instantiate abstract class EnhancedVideoProcessor with abstract method process
+2025-07-11 04:51:09,167 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,167 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,183 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,183 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,198 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,198 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,215 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:51:09,215 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,400 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,400 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,412 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,412 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,425 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,425 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,441 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 04:52:08,441 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:06:59,502 - INFO -  Initializing MIH automation system...
+2025-07-11 05:06:59,502 - __main__ - INFO -  Initializing MIH automation system...
+2025-07-11 05:06:59,965 - INFO -  Enhanced AI content generator initialized
+2025-07-11 05:06:59,965 - __main__ - INFO -  Enhanced AI content generator initialized
+2025-07-11 05:06:59,968 - INFO -  Enhanced visual creator initialized
+2025-07-11 05:06:59,968 - __main__ - INFO -  Enhanced visual creator initialized
+2025-07-11 05:06:59,973 - INFO -  Authenticating Dental Advisor...
+2025-07-11 05:06:59,973 - __main__ - INFO -  Authenticating Dental Advisor...
+2025-07-11 05:06:59,979 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:06:59,979 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:06:59,986 - INFO -  Authenticated: Dental Advisor
+2025-07-11 05:06:59,986 - __main__ - INFO -  Authenticated: Dental Advisor
+2025-07-11 05:06:59,987 - INFO -  Authenticating MIH...
+2025-07-11 05:06:59,987 - __main__ - INFO -  Authenticating MIH...
+2025-07-11 05:06:59,990 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:06:59,990 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:06:59,994 - INFO -  Authenticated: MIH
+2025-07-11 05:06:59,994 - __main__ - INFO -  Authenticated: MIH
+2025-07-11 05:06:59,995 - INFO -  Authenticating Enamel Hypoplasia...
+2025-07-11 05:06:59,995 - __main__ - INFO -  Authenticating Enamel Hypoplasia...
+2025-07-11 05:06:59,998 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:06:59,998 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:07:00,003 - INFO -  Authenticated: Enamel Hypoplasia
+2025-07-11 05:07:00,003 - __main__ - INFO -  Authenticated: Enamel Hypoplasia
+2025-07-11 05:07:00,004 - INFO -  MIH Automation System fully initialized
+2025-07-11 05:07:00,004 - __main__ - INFO -  MIH Automation System fully initialized
+2025-07-11 05:07:00,004 - INFO -  0 videos previously processed
+2025-07-11 05:07:00,004 - __main__ - INFO -  0 videos previously processed
+2025-07-11 05:07:00,006 - INFO -  Starting complete automation for video ID: uaHNk_fPzgA
+2025-07-11 05:07:00,006 - __main__ - INFO -  Starting complete automation for video ID: uaHNk_fPzgA
+2025-07-11 05:07:00,009 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:07:00,009 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-11 05:07:00,466 - INFO -  Processing Dr. Greenwall video: Teeth Whitening For Under 18s With Linda Greenwall - PDP96
+2025-07-11 05:07:00,466 - __main__ - INFO -  Processing Dr. Greenwall video: Teeth Whitening For Under 18s With Linda Greenwall - PDP96
+2025-07-11 05:07:00,467 - INFO -  Video ID: uaHNk_fPzgA
+2025-07-11 05:07:00,467 - __main__ - INFO -  Video ID: uaHNk_fPzgA
+2025-07-11 05:07:00,468 - INFO -  Using cached trending topics data
+2025-07-11 05:07:00,468 - __main__ - INFO -  Using cached trending topics data
+2025-07-11 05:07:00,468 - INFO -  Using 0 trending topics for optimization
+2025-07-11 05:07:00,468 - __main__ - INFO -  Using 0 trending topics for optimization
+2025-07-11 05:07:00,469 - INFO -  Extracting enhanced transcript for uaHNk_fPzgA...
+2025-07-11 05:07:00,469 - __main__ - INFO -  Extracting enhanced transcript for uaHNk_fPzgA...
+2025-07-11 05:07:05,477 - INFO -  Enhanced transcript with 606 segments
+2025-07-11 05:07:05,477 - __main__ - INFO -  Enhanced transcript with 606 segments
+2025-07-11 05:07:05,478 - INFO -  Extracted 606 transcript segments
+2025-07-11 05:07:05,478 - __main__ - INFO -  Extracted 606 transcript segments
+2025-07-11 05:07:05,479 - INFO -  AI analyzing transcript for viral MIH clips...
+2025-07-11 05:07:05,479 - __main__ - INFO -  AI analyzing transcript for viral MIH clips...
+2025-07-11 05:07:09,517 - INFO -  Using fallback clip detection
+2025-07-11 05:07:09,517 - __main__ - INFO -  Using fallback clip detection
+2025-07-11 05:07:09,526 - INFO -  AI identified 3 viral clip opportunities
+2025-07-11 05:07:09,526 - __main__ - INFO -  AI identified 3 viral clip opportunities
+2025-07-11 05:07:09,527 - INFO -  Downloading source video: uaHNk_fPzgA
+2025-07-11 05:07:09,527 - __main__ - INFO -  Downloading source video: uaHNk_fPzgA
+2025-07-11 05:08:23,617 - INFO -  Downloaded: source_uaHNk_fPzgA.mp4
+2025-07-11 05:08:23,617 - __main__ - INFO -  Downloaded: source_uaHNk_fPzgA.mp4
+2025-07-11 05:08:23,617 - INFO -  Creating viral clip 1/3
+2025-07-11 05:08:23,617 - __main__ - INFO -  Creating viral clip 1/3
+2025-07-11 05:08:23,618 - INFO -  Generating viral content with AI...
+2025-07-11 05:08:23,618 - __main__ - INFO -  Generating viral content with AI...
+2025-07-11 05:08:24,699 - INFO -  Generated viral content: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:08:24,699 - __main__ - INFO -  Generated viral content: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:08:24,700 - INFO -  Creating viral clip: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:08:24,700 - __main__ - INFO -  Creating viral clip: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:08:25,017 - INFO -  Creating branded intro: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:08:25,017 - __main__ - INFO -  Creating branded intro: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:08:25,105 - WARNING - FFmpeg warning (code 4294967274): [AVFilterGraph @ 000002422c53f2c0] No option name near ' MIH Mistake Costing Kids Their Smiles!:fontfile=/Windows/Fonts/arialbd.ttf:fontweight=bold:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text
+2025-07-11 05:08:25,105 - __main__ - WARNING - FFmpeg warning (code 4294967274): [AVFilterGraph @ 000002422c53f2c0] No option name near ' MIH Mistake Costing Kids Their Smiles!:fontfile=/Windows/Fonts/arialbd.ttf:fontweight=bold:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text
+2025-07-11 05:08:25,721 - INFO -  Creating branded outro with CTA...
+2025-07-11 05:08:25,721 - __main__ - INFO -  Creating branded outro with CTA...
+2025-07-11 05:08:25,815 - ERROR - FFmpeg command failed: 'NoneType' object is not subscriptable
+2025-07-11 05:08:25,815 - __main__ - ERROR - FFmpeg command failed: 'NoneType' object is not subscriptable
+2025-07-11 05:08:25,819 - INFO -  Created enhanced subtitles with 9 segments
+2025-07-11 05:08:25,819 - __main__ - INFO -  Created enhanced subtitles with 9 segments
+2025-07-11 05:08:25,822 - INFO -  Creating enhanced main clip with viral styling...
+2025-07-11 05:08:25,822 - __main__ - INFO -  Creating enhanced main clip with viral styling...
+2025-07-11 05:08:57,800 - INFO -  Enhanced main clip created: main_clip_55beae45.mp4
+2025-07-11 05:08:57,800 - __main__ - INFO -  Enhanced main clip created: main_clip_55beae45.mp4
+2025-07-11 05:08:57,804 - INFO -  Creating viral thumbnail: 'Warning: MIH Mistake...'
+2025-07-11 05:08:57,804 - __main__ - INFO -  Creating viral thumbnail: 'Warning: MIH Mistake...'
+2025-07-11 05:08:57,972 - INFO -  Created thumbnail: thumbnail_e35bd1b7.jpg
+2025-07-11 05:08:57,972 - __main__ - INFO -  Created thumbnail: thumbnail_e35bd1b7.jpg
+2025-07-11 05:08:57,973 - INFO -  Successfully created viral clip: viral_clip_a039095b.mp4
+2025-07-11 05:08:57,973 - __main__ - INFO -  Successfully created viral clip: viral_clip_a039095b.mp4
+2025-07-11 05:08:57,974 - INFO -  Viral clip 1 created successfully
+2025-07-11 05:08:57,974 - __main__ - INFO -  Viral clip 1 created successfully
+2025-07-11 05:08:57,975 - INFO -     Title: Warning: MIH Mistake Costing Kids Their Smiles!
+2025-07-11 05:08:57,975 - __main__ - INFO -     Title: Warning: MIH Mistake Costing Kids Their Smiles!
+2025-07-11 05:08:57,975 - INFO -     Tags: #MIH, #ChildrensTeeth, #DentalHealth
+2025-07-11 05:08:57,975 - __main__ - INFO -     Tags: #MIH, #ChildrensTeeth, #DentalHealth
+2025-07-11 05:08:57,976 - INFO -  Creating viral clip 2/3
+2025-07-11 05:08:57,976 - __main__ - INFO -  Creating viral clip 2/3
+2025-07-11 05:08:57,976 - INFO -  Generating viral content with AI...
+2025-07-11 05:08:57,976 - __main__ - INFO -  Generating viral content with AI...
+2025-07-11 05:09:06,322 - INFO -  Generated viral content: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:09:06,322 - __main__ - INFO -  Generated viral content: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:09:06,323 - INFO -  Creating viral clip: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:09:06,323 - __main__ - INFO -  Creating viral clip: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:09:06,911 - INFO -  Creating branded intro: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:09:06,911 - __main__ - INFO -  Creating branded intro: 'Warning: MIH Mistake Costing K...'
+2025-07-11 05:09:06,998 - WARNING - FFmpeg warning (code 4294967274): [AVFilterGraph @ 000001cb2aaef2c0] No option name near ' MIH Mistake Costing Kids Their Teeth!:fontfile=/Windows/Fonts/arialbd.ttf:fontweight=bold:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text_
+2025-07-11 05:09:06,998 - __main__ - WARNING - FFmpeg warning (code 4294967274): [AVFilterGraph @ 000001cb2aaef2c0] No option name near ' MIH Mistake Costing Kids Their Teeth!:fontfile=/Windows/Fonts/arialbd.ttf:fontweight=bold:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text_
+2025-07-11 05:09:07,554 - INFO -  Creating branded outro with CTA...
+2025-07-11 05:09:07,554 - __main__ - INFO -  Creating branded outro with CTA...
+2025-07-11 05:09:07,650 - ERROR - FFmpeg command failed: 'NoneType' object is not subscriptable
+2025-07-11 05:09:07,650 - __main__ - ERROR - FFmpeg command failed: 'NoneType' object is not subscriptable
+2025-07-11 05:09:07,651 - INFO -  Creating enhanced main clip with viral styling...
+2025-07-11 05:09:07,651 - __main__ - INFO -  Creating enhanced main clip with viral styling...
+2025-07-11 05:09:07,957 - ERROR -  Enhanced main clip creation failed: Main clip creation failed or output too small
+2025-07-11 05:09:07,957 - __main__ - ERROR -  Enhanced main clip creation failed: Main clip creation failed or output too small
+2025-07-11 05:09:07,958 - ERROR -  Viral clip creation failed: Failed to create main clip
+2025-07-11 05:09:07,958 - __main__ - ERROR -  Viral clip creation failed: Failed to create main clip
+2025-07-11 05:09:07,959 - INFO -  Creating viral clip 3/3
+2025-07-11 05:09:07,959 - __main__ - INFO -  Creating viral clip 3/3
+2025-07-11 05:09:07,960 - INFO -  Generating viral content with AI...
+2025-07-11 05:09:07,960 - __main__ - INFO -  Generating viral content with AI...
+2025-07-11 05:09:10,462 - INFO -  Generated viral content: 'Warning: Is Your Child's Incis...'
+2025-07-11 05:09:10,462 - __main__ - INFO -  Generated viral content: 'Warning: Is Your Child's Incis...'
+2025-07-11 05:09:10,462 - INFO -  Creating viral clip: 'Warning: Is Your Child's Incis...'
+2025-07-11 05:09:10,462 - __main__ - INFO -  Creating viral clip: 'Warning: Is Your Child's Incis...'
+2025-07-11 05:09:10,770 - INFO -  Creating branded intro: 'Warning: Is Your Child's Incis...'
+2025-07-11 05:09:10,770 - __main__ - INFO -  Creating branded intro: 'Warning: Is Your Child's Incis...'
+2025-07-11 05:09:10,848 - WARNING - FFmpeg warning (code 4294967274): [AVFilterGraph @ 000001f06e1bf2c0] No option name near ' Is Your Childs Incisor at Risk?:fontfile=/Windows/Fonts/arialbd.ttf:fontweight=bold:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-1
+2025-07-11 05:09:10,848 - __main__ - WARNING - FFmpeg warning (code 4294967274): [AVFilterGraph @ 000001f06e1bf2c0] No option name near ' Is Your Childs Incisor at Risk?:fontfile=/Windows/Fonts/arialbd.ttf:fontweight=bold:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-1
+2025-07-11 05:09:11,167 - INFO -  Creating branded outro with CTA...
+2025-07-11 05:09:11,167 - __main__ - INFO -  Creating branded outro with CTA...
+2025-07-11 05:09:11,262 - ERROR - FFmpeg command failed: 'NoneType' object is not subscriptable
+2025-07-11 05:09:11,262 - __main__ - ERROR - FFmpeg command failed: 'NoneType' object is not subscriptable
+2025-07-11 05:09:11,264 - INFO -  Creating enhanced main clip with viral styling...
+2025-07-11 05:09:11,264 - __main__ - INFO -  Creating enhanced main clip with viral styling...
+2025-07-11 05:09:11,502 - ERROR -  Enhanced main clip creation failed: Main clip creation failed or output too small
+2025-07-11 05:09:11,502 - __main__ - ERROR -  Enhanced main clip creation failed: Main clip creation failed or output too small
+2025-07-11 05:09:11,503 - ERROR -  Viral clip creation failed: Failed to create main clip
+2025-07-11 05:09:11,503 - __main__ - ERROR -  Viral clip creation failed: Failed to create main clip
+2025-07-11 05:09:11,504 - INFO -  Successfully created 1 viral clips from video
+2025-07-11 05:09:11,504 - __main__ - INFO -  Successfully created 1 viral clips from video
+2025-07-11 05:09:11,579 - INFO -  Uploading 1 viral clips to channels...
+2025-07-11 05:09:11,579 - __main__ - INFO -  Uploading 1 viral clips to channels...
+2025-07-11 05:09:11,580 - INFO -  Uploading clip 1/1: Warning: MIH Mistake Costing Kids Their Smiles!
+2025-07-11 05:09:11,580 - __main__ - INFO -  Uploading clip 1/1: Warning: MIH Mistake Costing Kids Their Smiles!
+2025-07-11 05:09:11,580 - INFO -  Uploading 'Warning: MIH Mistake Costing Kids Their Smiles!' to Dental Advisor...
+2025-07-11 05:09:11,580 - __main__ - INFO -  Uploading 'Warning: MIH Mistake Costing Kids Their Smiles!' to Dental Advisor...
+2025-07-11 05:09:16,630 - INFO -  SUCCESS: Uploaded to Dental Advisor
+2025-07-11 05:09:16,630 - __main__ - INFO -  SUCCESS: Uploaded to Dental Advisor
+2025-07-11 05:09:16,631 - INFO -     Video URL: https://www.youtube.com/watch?v=bhSXpqH2ysA
+2025-07-11 05:09:16,631 - __main__ - INFO -     Video URL: https://www.youtube.com/watch?v=bhSXpqH2ysA
+2025-07-11 05:09:16,632 - INFO -  Uploading 'Warning: MIH Mistake Costing Kids Their Smiles!' to MIH...
+2025-07-11 05:09:16,632 - __main__ - INFO -  Uploading 'Warning: MIH Mistake Costing Kids Their Smiles!' to MIH...
+2025-07-11 05:09:21,596 - INFO -  SUCCESS: Uploaded to MIH
+2025-07-11 05:09:21,596 - __main__ - INFO -  SUCCESS: Uploaded to MIH
+2025-07-11 05:09:21,597 - INFO -     Video URL: https://www.youtube.com/watch?v=sVOP-zCxw90
+2025-07-11 05:09:21,597 - __main__ - INFO -     Video URL: https://www.youtube.com/watch?v=sVOP-zCxw90
+2025-07-11 05:09:21,598 - INFO -  Uploading 'Warning: MIH Mistake Costing Kids Their Smiles!' to Enamel Hypoplasia...
+2025-07-11 05:09:21,598 - __main__ - INFO -  Uploading 'Warning: MIH Mistake Costing Kids Their Smiles!' to Enamel Hypoplasia...
+2025-07-11 05:09:27,884 - INFO -  SUCCESS: Uploaded to Enamel Hypoplasia
+2025-07-11 05:09:27,884 - __main__ - INFO -  SUCCESS: Uploaded to Enamel Hypoplasia
+2025-07-11 05:09:27,885 - INFO -     Video URL: https://www.youtube.com/watch?v=e9N6MDu2u3U
+2025-07-11 05:09:27,885 - __main__ - INFO -     Video URL: https://www.youtube.com/watch?v=e9N6MDu2u3U
+2025-07-11 05:09:27,885 - INFO -  Clip 1 uploaded successfully
+2025-07-11 05:09:27,885 - __main__ - INFO -  Clip 1 uploaded successfully
+2025-07-11 05:09:29,887 - INFO -  Upload Summary: 3 successful, 0 failed
+2025-07-11 05:09:29,887 - __main__ - INFO -  Upload Summary: 3 successful, 0 failed
+2025-07-11 05:09:29,887 - INFO -  SESSION SUMMARY
+2025-07-11 05:09:29,887 - __main__ - INFO -  SESSION SUMMARY
+2025-07-11 05:09:29,888 - INFO - ==================================================
+2025-07-11 05:09:29,888 - __main__ - INFO - ==================================================
+2025-07-11 05:09:29,888 - INFO - Videos Processed: 1
+2025-07-11 05:09:29,888 - __main__ - INFO - Videos Processed: 1
+2025-07-11 05:09:29,889 - INFO - Viral Clips Created: 1
+2025-07-11 05:09:29,889 - __main__ - INFO - Viral Clips Created: 1
+2025-07-11 05:09:29,889 - INFO - Clips Uploaded: 1
+2025-07-11 05:09:29,889 - __main__ - INFO - Clips Uploaded: 1
+2025-07-11 05:09:29,889 - INFO - Errors Encountered: 0
+2025-07-11 05:09:29,889 - __main__ - INFO - Errors Encountered: 0
+2025-07-11 05:09:29,890 - INFO - Upload Success Rate: 100.0%
+2025-07-11 05:09:29,890 - __main__ - INFO - Upload Success Rate: 100.0%
+2025-07-11 05:09:29,890 - INFO - ==================================================
+2025-07-11 05:09:29,890 - __main__ - INFO - ==================================================
+2025-07-11 05:09:29,891 - INFO -  AUTOMATION COMPLETED SUCCESSFULLY!
+2025-07-11 05:09:29,891 - __main__ - INFO -  AUTOMATION COMPLETED SUCCESSFULLY!
+2025-07-11 05:09:29,891 - INFO -  Performing system cleanup...
+2025-07-11 05:09:29,891 - __main__ - INFO -  Performing system cleanup...
+2025-07-11 05:09:29,892 - INFO -  Cleaned up visual creator temporary files
+2025-07-11 05:09:29,892 - __main__ - INFO -  Cleaned up visual creator temporary files
+2025-07-11 05:09:29,893 - INFO -  Cleaned up transcript processor files
+2025-07-11 05:09:29,893 - __main__ - INFO -  Cleaned up transcript processor files
+2025-07-11 05:09:29,894 - INFO -  System cleanup completed
+2025-07-11 05:09:29,894 - __main__ - INFO -  System cleanup completed
+2025-07-11 05:09:29,894 - INFO -  Performing system cleanup...
+2025-07-11 05:09:29,894 - __main__ - INFO -  Performing system cleanup...
+2025-07-11 05:09:29,895 - INFO -  System cleanup completed
+2025-07-11 05:09:29,895 - __main__ - INFO -  System cleanup completed

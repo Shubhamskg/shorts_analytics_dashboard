@@ -929,12 +929,6 @@ class DentalChannelsDashboard:
         st.markdown("""
         <div class="main-header">
             <h1>🦷 Dental Education Analytics Dashboard</h1>
-            <p style="font-size: 1.2rem; margin-top: 1rem; opacity: 0.9;">
-                Production-Ready YouTube Analytics for Dental Education Channels
-            </p>
-            <p style="font-size: 1rem; opacity: 0.8;">
-                MIH Education • Pediatric Dentistry • Enamel Care • Multi-Environment Support
-            </p>
         </div>
         """, unsafe_allow_html=True)
     
@@ -1740,7 +1734,7 @@ class DentalChannelsDashboard:
         
         with col1:
             st.markdown(f"""
-            <div class="metric-card" style="border-left: 4px solid {best_views.color}">
+            <div class="metric-card" style="border-left: 4px solid blue">
                 <h4>🏆 Most Views</h4>
                 <h3>{best_views.channel_name}</h3>
                 <p><strong>{best_views.period_views:,}</strong> views</p>
@@ -1866,17 +1860,17 @@ class DentalChannelsDashboard:
             'pediatric_care': '👶'
         }.get(channel_config['content_focus'], '📺')
         
-        st.markdown(f"""
-        <div class="channel-card success" style="border-left-color: {channel_config.get('color', '#4facfe')}">
-            <h3>✅ {focus_emoji} {channel_name}</h3>
-            <p><strong>Status:</strong> <span class="auth-status auth-success">Authenticated & Active</span></p>
-            <p><strong>Focus Area:</strong> {channel_config['content_focus'].replace('_', ' ').title()}</p>
-            <p><strong>Description:</strong> {channel_config['description']}</p>
-            <span class="content-focus-badge" style="background-color: {channel_config.get('color', '#4facfe')}">
-                {channel_config['content_focus'].replace('_', ' ').title()}
-            </span>
-        </div>
-        """, unsafe_allow_html=True)
+        # st.markdown(f"""
+        # <div class="channel-card success" style="border-left-color: {channel_config.get('color', '#4facfe')}">
+        #     <h3>✅ {focus_emoji} {channel_name}</h3>
+        #     <p><strong>Status:</strong> <span class="auth-status auth-success">Authenticated & Active</span></p>
+        #     <p><strong>Focus Area:</strong> {channel_config['content_focus'].replace('_', ' ').title()}</p>
+        #     <p><strong>Description:</strong> {channel_config['description']}</p>
+        #     <span class="content-focus-badge" style="background-color: {channel_config.get('color', '#4facfe')}">
+        #         {channel_config['content_focus'].replace('_', ' ').title()}
+        #     </span>
+        # </div>
+        # """, unsafe_allow_html=True)
         
         # Load analytics data
         with st.spinner(f"Loading detailed analytics for {channel_name}..."):
